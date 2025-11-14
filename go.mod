@@ -1,8 +1,6 @@
 module github.com/newcrab/MCT-2025-containers.git
 
-go 1.23.0
-
-toolchain go1.24.10
+go 1.21.0
 
 require (
 	github.com/gin-gonic/gin v1.11.0
